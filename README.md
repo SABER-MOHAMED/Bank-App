@@ -22,9 +22,9 @@ Bugs/problems that still need to be fixed:
 
 Deployed Website: https://bankkkk.netlify.app
 
-![demo1](img/login1.png)
+![demo1](./img/login1.png)
 
-![demo2](img/login2.png)
+![demo2](./img/login2.png)
 
 
 ## Built With
