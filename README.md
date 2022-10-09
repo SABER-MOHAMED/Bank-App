@@ -10,7 +10,7 @@ Bankist is a fictitious and minimalistic online banking application that allows 
 
 
 Log in credentials:
-- username: js | password: 1111
+- username: md | password: 1111
 - username: jd | password 2222
 
 
@@ -34,9 +34,8 @@ Deployed Website: https://bankkkk.netlify.app
   * JavaScript
 
 
-
 Readme file by: Jennifer Rosa
 
 ## Acknowledgments
 
-  * The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
+  * The Complete JavaScript Course 2021: From Zero to Expert! by @Jonas_Schmedtmann
