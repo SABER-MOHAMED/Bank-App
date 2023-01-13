@@ -1,4 +1,4 @@
-# 💸 Banking_JS_App
+# 💸 Bankist application
 
 Bankist is a fictitious and minimalistic online banking application that allows the user to:
 
