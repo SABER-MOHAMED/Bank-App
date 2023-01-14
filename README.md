@@ -32,10 +32,3 @@ Deployed Website: https://bankkkk.netlify.app
   * HTML
   * CSS
   * JavaScript
-
-
-Readme file by: Jennifer Rosa
-
-## Acknowledgments
-
-  * The Complete JavaScript Course 2021: From Zero to Expert! by @Jonas_Schmedtmann
